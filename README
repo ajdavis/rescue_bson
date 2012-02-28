@@ -1,0 +1,3 @@
+Extremely rough and untested tool for diagnosing corruption in BSON from the
+mongodump tool. Tells you roughly where parse errors are, and recovers as much
+of the original document as it can.
